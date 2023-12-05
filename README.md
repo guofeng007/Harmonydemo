@@ -1,5 +1,7 @@
 # 鸿蒙Harmony开发初探
 
+[个人博客主页https://guofeng007.com/](https://guofeng007.com/)
+
 ## 一、背景
 
 9月25日华为秋季全场景新品发布会，余承东宣布鸿蒙HarmonyOS NEXT蓄势待发，不再支持安卓应用。网易有道、同程旅行、美团、国航、阿里等公司先后宣布启动鸿蒙原生应用开发工作。
@@ -348,7 +350,7 @@ struct WebComponent {
 </html>
 ```
 
-#### 3.5 Devtools调试webview
+### 3.5 Devtools调试webview
 
 1. 代码中允许webview调试 web_webview.WebviewController.setWebDebuggingAccess(true);
 
@@ -390,7 +392,7 @@ hdc fport ls
 
 3. 在PC端chrome浏览器地址栏中输入chrome://inspect/#devices，页面识别到设备后，就可以开始页面调试。调试效果如下：
 
-![image-20231205135433565](https://pic.imgdb.cn/item/656ec48ec458853aeff29a55.png)
+![image-20231205135433565.png](https://upload-images.jianshu.io/upload_images/8796046-b651697fbf332205.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 总结
 
