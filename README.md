@@ -30,7 +30,7 @@ HUAWEI DevEco Studio  基于IntelliJ IDEA Community开源版本定制开发，�
 
 ### 3.2 示例讲解
 
-github地址：
+github地址： https://github.com/guofeng007/Harmonydemo
 
 界面效果：
 
