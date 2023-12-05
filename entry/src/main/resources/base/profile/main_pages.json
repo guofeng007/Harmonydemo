@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/routes/FirstPage",
+    "pages/routes/SecondPage",
+    "pages/routes/WebComponent"
+  ]
+}
